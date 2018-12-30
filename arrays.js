@@ -11,4 +11,6 @@ const destructivelyAddElementToBeginningOfArray = (arr, elem) => {
   return arr;
 }
 
-const 
+const addElementToEndOfArray
+
+const
